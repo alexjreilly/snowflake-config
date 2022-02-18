@@ -5,3 +5,4 @@ snowflake-config copy/.idea
 *terraform.tfstate.backup
 **.venv
 .DS_Store
+.idea
