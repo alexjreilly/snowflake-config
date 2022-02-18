@@ -1,0 +1,7 @@
+snowflake-config copy/.idea
+**.env
+.terraform
+*terraform.tfstate
+*terraform.tfstate.backup
+**.venv
+.DS_Store
